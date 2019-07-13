@@ -20,13 +20,13 @@ Your ultimate Youtube utility - Download videos, audio, thumbnails, subtitles an
 * [1\. Introduction](#1-introduction)
 * [2\. Contents](#2-contents)
 * [3\. Usage](#3-usage)
-  * [3.1 Downloading a video](#31-downloading-a-video)
-  * [3.2 Downloading a thumbnail](#32-downloading-a-thumbnail)
-  * [3.3 Downloading subtitles](#33-downloading-subtitles)
-  * [3.4 Downloading video information](#34-downloading-video-information)
+  * [3.1 Download a video](#31-download-a-video)
+  * [3.2 Download a thumbnail](#32-download-a-thumbnail)
+  * [3.3 Download subtitles](#33-download-subtitles)
+  * [3.4 Download video information](#34-download-video-information)
 
 # 3. Usage
-## 3.1 Downloading a video
+## 3.1 Download a video
 ### 3.1.1 Syntax
 ```
 node ytutils.js downnload video INPUT_URL OUTPUT_FILE
