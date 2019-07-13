@@ -2,13 +2,13 @@
 Your ultimate Youtube utility - Download videos, audio, thumbnails, subtitles and video information from YouTube
 
 # 2. Contents
-* 1\. Introduction
-* 2\. Contents
-* 3\. Usage
-  * 3.1 Downloading a song
-  * 3.2 Downloading a thumbnail
-  * 3.3 Downloading subtitles
-  * 3.4 Downloading video information
+* [1\. Introduction](#1-introduction)
+* [2\. Contents](#2-contents)
+* [3\. Usage](#3-usage)
+  * [3.1 Downloading a song](#31-downloading-a-song)
+  * [3.2 Downloading a thumbnail](#32-downloading-a-thumbnail)
+  * [3.3 Downloading subtitles](#33-downloading-subtitles)
+  * [3.4 Downloading video information](#34-downloading-video-information)
 
 # 3. Usage
 ## 3.1 Downloading a song
