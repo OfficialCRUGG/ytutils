@@ -1,3 +1,18 @@
+[English](https://github.com/OfficialCRUGG/ytutils/blob/master/README.md) [Deutsch](https://github.com/OfficialCRUGG/ytutils/blob/master/README.de.md)
+
+![Top Language](https://img.shields.io/github/languages/top/OfficialCRUGG/ytutils.svg?style=flat-square)
+![Size](https://img.shields.io/github/size/officialcrugg/ytutils/ytutils.js.svg?style=flat-square)
+![Open Issues](https://img.shields.io/github/issues-raw/officialcrugg/ytutils.svg?style=flat-square)
+![Open PRs](https://img.shields.io/github/issues-pr-raw/officialcrugg/ytutils.svg?style=flat-square)
+![Closed PRs](https://img.shields.io/github/issues-pr-closed-raw/officialcrugg/ytutils.svg?color=red&style=flat-square)
+![License](https://img.shields.io/github/license/OfficialCRUGG/ytutils.svg?color=blue&style=flat-square)
+![Stars](https://img.shields.io/github/stars/officialcrugg/ytutils.svg?color=yellow&style=flat-square)
+![Forks](https://img.shields.io/github/forks/officialcrugg/ytutils.svg?color=yellow&style=flat-square)
+
+![Release](https://img.shields.io/github/release/officialcrugg/ytutils.svg?style=flat-square)
+![Pre-Release](https://img.shields.io/github/release-pre/officialcrugg/ytutils.svg?label=pre-release&style=flat-square)
+![Development Version](https://img.shields.io/github/package-json/v/officialcrugg/ytutils.svg?label=development-version&style=flat-square)
+
 # 1. Introduction
 Your ultimate Youtube utility - Download videos, audio, thumbnails, subtitles and video information from YouTube
 
