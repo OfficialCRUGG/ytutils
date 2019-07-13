@@ -1,6 +1,6 @@
 {
   "name": "ytutils",
-  "version": "1.0.0",
+  "version": "0.1",
   "description": "Your ultimate Youtube utility",
   "main": "index.js",
   "scripts": {
