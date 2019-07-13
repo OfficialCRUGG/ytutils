@@ -1,4 +1,4 @@
-[English](https://github.com/OfficialCRUGG/ytutils/blob/master/README.md) [Deutsch](https://github.com/OfficialCRUGG/ytutils/blob/master/README.de.md)
+English | [Deutsch](https://github.com/OfficialCRUGG/ytutils/blob/master/README.de.md)
 
 ![Top Language](https://img.shields.io/github/languages/top/OfficialCRUGG/ytutils.svg?style=flat-square)
 ![Size](https://img.shields.io/github/size/officialcrugg/ytutils/ytutils.js.svg?style=flat-square)
