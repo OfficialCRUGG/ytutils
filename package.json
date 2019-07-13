@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/OfficialCRUGG/ytutils#readme",
   "dependencies": {
-    "@microlink/youtube-dl": "^2.0.0",
-    "youtube-dl": "^2.0.0"
+    "@microlink/youtube-dl": "^2.0.0"
   }
 }
